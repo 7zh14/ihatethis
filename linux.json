@@ -6,7 +6,7 @@
     "performance": 85,
     "security": 70,
     "desc": "The gold standard for people switching from Windows. Stable and familiar.",
-    "banner": "https://images.unsplash.com/photo-1629654297299-c8506221ca97?w=800",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinux-mint-logo-png-transparent.png&sp=1776986159T9c2dd7eecd67f5c627ba4c5c2fd59d6435a3368fb977f031a4f92afd275a540e",
     "dl": "https://linuxmint.com/download.php",
     "docs": "https://linuxmint.com/documentation.php"
   },
@@ -28,7 +28,7 @@
     "performance": 99,
     "security": 75,
     "desc": "The pinnacle of Linux speed, optimized for modern CPUs with custom kernels.",
-    "banner": "https://cachyos.org/img/cachyos-banner.png",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flinuxiac.b-cdn.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fcachyos.jpg&sp=1776986212Tf380cffada573ac3b650d0e7f4a3a584e9f351a26b8800a84fef0a737770be0c",
     "dl": "https://cachyos.org/download/",
     "docs": "https://wiki.cachyos.org/"
   },
@@ -39,7 +39,7 @@
     "performance": 60,
     "security": 100,
     "desc": "The industry standard for penetration testing and ethical hacking.",
-    "banner": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.thenewstack.io%2Fmedia%2F2023%2F11%2F4b416c71-kali.png&sp=1776986249Tfbe11b7e52519abf58aead7a0438a0cc29f2349b70fb5f3bb37503db30d65353",
     "dl": "https://www.kali.org/get-kali/",
     "docs": "https://www.kali.org/docs/"
   },
@@ -50,7 +50,7 @@
     "performance": 100,
     "security": 75,
     "desc": "A gaming-first distro by GloriousEggroll, pre-loaded with every fix a gamer needs.",
-    "banner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpreview.redd.it%2Fi-tried-making-a-nobara-wallpaper-in-gimp-logos-v0-bvr2vmipj17a1.png%3Fwidth%3D1000%26format%3Dpng%26auto%3Dwebp%26s%3D5a758b13a60e7fc52dd5a57ece3d247258f7e920&sp=1776986292T9957628a34fcd0f6aeb0e9d54b52e8f496b055bb039f200b0525417864ad26cb",
     "dl": "https://nobaraproject.org/download-nobara/",
     "docs": "https://nobaraproject.org/category/documentation/"
   },
@@ -61,7 +61,7 @@
     "performance": 80,
     "security": 98,
     "desc": "A security-focused OS that is comfortable enough to use as a daily driver.",
-    "banner": "https://parrotsec.org/img/share.png",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fgitlab.com%2Fuploads%2F-%2Fsystem%2Fproject%2Favatar%2F35856879%2FNew-ParrotOS-logo.png&sp=1776986323T1b3918015aa00832c6278eecb9c1a45e3719508d12b72ea76b3324b8acd2bdc8",
     "dl": "https://parrotsec.org/download/",
     "docs": "https://parrotsec.org/docs/"
   },
@@ -72,7 +72,7 @@
     "performance": 88,
     "security": 80,
     "desc": "Developed by System76, featuring the best auto-tiling window manager in the game.",
-    "banner": "https://pop.system76.com/assets/img/og-image.png",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F48%2F2%2Fpop-os-logo-png_seeklogo-489421.png&sp=1776986361T2d04147715df542c8d42b33ea4e826a367750768fd1825f2706f5a4b76607320",
     "dl": "https://pop.system76.com/",
     "docs": "https://support.system76.com/"
   },
@@ -83,7 +83,7 @@
     "performance": 50,
     "security": 100,
     "desc": "The Amnesic Incognito system. Run it from a USB to leave zero trace.",
-    "banner": "https://tails.net/lib/home-tiles/browser.png",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.pngkey.com%2Fpng%2Ffull%2F231-2315158_tails-png.png&sp=1776986405T4fc147512473fbee110f012c2055ecc11686ec852fba0c08e769e49d605d1f4e",
     "dl": "https://tails.net/install/",
     "docs": "https://tails.net/doc/"
   },
@@ -94,8 +94,7 @@
     "performance": 95,
     "security": 75,
     "desc": "A vibrant community-driven Arch distro that keeps things simple and close to the source.",
-    "banner": "https://endeavouros.com/wp-content/uploads/2021/01/logo-endeavouros.png",
-    "dl": "https://endeavouros.com/latest-release/",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F37%2F1%2Fendeavouros-logo-png_seeklogo-376219.png&sp=1776986465T88f732160041c0ea049c99b85c5f965eccb3c47f2b5e2ef2060da5dbf6ccc046",
     "docs": "https://discovery.endeavouros.com/"
   },
   {
@@ -105,7 +104,7 @@
     "performance": 82,
     "security": 85,
     "desc": "The most beautiful Linux desktop, designed for Windows/macOS switchers.",
-    "banner": "https://zorin.com/assets/img/zorin-os-17.jpg",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FZ%2Fzorin-os-logo-B427B2B617-seeklogo.com.png&sp=1776986547Tafe8887815df2b40e2f3dc5c91308163d60e8b48b04d4ac195454afe5841b78f",
     "dl": "https://zorin.com/os/download/",
     "docs": "https://help.zorin.com/"
   },
@@ -116,7 +115,7 @@
     "performance": 100,
     "security": 90,
     "desc": "An ultra-minimalist, security-oriented distro that can run entirely on RAM.",
-    "banner": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F51%2F2%2Falpine-linux-logo-png_seeklogo-518673.png&sp=1776986606T5ea54b6fac472e756a1b298a595c1552cc523b609339b107d37cc778293c47a9",
     "dl": "https://alpinelinux.org/downloads/",
     "docs": "https://wiki.alpinelinux.org/"
   },
