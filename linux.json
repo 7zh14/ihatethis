@@ -11,7 +11,7 @@
     "docs": "https://linuxmint.com/documentation.php"
   },
   {
-      "name": "CachyOS",
+    "name": "CachyOS",
     "use_case": ["Performance","Gaming"],
     "base": "Arch",
     "performance": 99,
