@@ -11,6 +11,17 @@
     "docs": "https://linuxmint.com/documentation.php"
   },
   {
+    "name": "MX Linux",
+    "use_case": ["Daily Driver","Performance"],
+    "base": "Debian",
+    "performance": 92,
+    "security": 88,
+    "desc": "A midweight, desktop-oriented Linux distribution based on Debian that emphasizes stability, performance, and ease of use.",
+    "banner": "https://mxlinux.org/wp-content/uploads/2023/05/MX-Menu-icon-pyramids.svg",
+    "dl": "https://mxlinux.org/download-links/",
+    "docs": "https://mxlinux.org/manuals"
+  },
+  {
     "name": "CachyOS",
     "use_case": ["Performance","Gaming"],
     "base": "Arch",
