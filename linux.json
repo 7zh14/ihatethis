@@ -6,7 +6,7 @@
     "performance": 85,
     "security": 70,
     "desc": "The gold standard for people switching from Windows. Stable and familiar.",
-    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Flinux-mint-logo-png-transparent.png&sp=1776986159T9c2dd7eecd67f5c627ba4c5c2fd59d6435a3368fb977f031a4f92afd275a540e",
+    "banner": "https://cdn.freebiesupply.com/logos/large/2x/linux-mint-logo-png-transparent.png",
     "dl": "https://linuxmint.com/download.php",
     "docs": "https://linuxmint.com/documentation.php"
   },
