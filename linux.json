@@ -17,7 +17,7 @@
     "performance": 92,
     "security": 88,
     "desc": "A midweight powerhouse emphasizing stability and ease of use with its famous MX Tools.",
-    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flinuxiac.b-cdn.net%2Fwp-content%2Fuploads%2F2023%2F05%2Fmx-new-logo.png&sp=1776986701Te537b0cd411401b7611fe11be9992ed3787bdae2a338f0ad9227ff546f30097e",
+    "banner": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/linuxiac.com/wp-content/uploads/2023/05/mx-new-logo.png",
     "dl": "https://mxlinux.org/download-links/",
     "docs": "https://mxlinux.org/manuals"
   },
@@ -28,7 +28,7 @@
     "performance": 99,
     "security": 75,
     "desc": "The pinnacle of Linux speed, optimized for modern CPUs with custom kernels.",
-    "banner": "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Flinuxiac.b-cdn.net%2Fwp-content%2Fuploads%2F2022%2F11%2Fcachyos.jpg&sp=1776986212Tf380cffada573ac3b650d0e7f4a3a584e9f351a26b8800a84fef0a737770be0c",
+    "banner": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/linuxiac.com/wp-content/uploads/2022/11/cachyos.jpg",
     "dl": "https://cachyos.org/download/",
     "docs": "https://wiki.cachyos.org/"
   },
